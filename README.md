@@ -1,6 +1,8 @@
 # HR-Data-EDA-Visualization
 This repository hosts an in-depth analysis of HR-related data, focusing on gaining insights through exploratory data analysis (EDA) and effective data visualization techniques.
 
+<img src="https://github.com/MaasahebbiUstad/HR-Data-EDA-Visualization/assets/137813961/135b7662-261e-49e4-b057-bc934b72c044" width="700" height="350">
+
 **Data Description**
 
 'Name': Employee's name.
