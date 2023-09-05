@@ -26,3 +26,6 @@ This repository hosts an in-depth analysis of HR-related data, focusing on gaini
 'Joining Date': The date when the employee joined the company.
 
 'Salary': Employee's salary.
+
+**Dynamic Dashboard**
+![Hr ](https://github.com/MaasahebbiUstad/HR-Data-EDA-Visualization/assets/137813961/65c0da27-b318-408d-9642-28a588540eed)
