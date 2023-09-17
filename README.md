@@ -57,5 +57,7 @@ Welcome to the HR Data Analysis Project repository. This collection hosts an in-
 **Educational Purpose:**
 - Serve as an educational resource for those looking to learn data analysis techniques and explore HR data analysis.
 
+## <img src="https://github.com/MaasahebbiUstad/1mg-Homeopathy-Data-Analysis/assets/137813961/1a839dfc-2edc-4981-bbed-fcd9b6912aba" width="50" height="48">Data-driven Insights Gallery:
+
 **Dynamic Dashboard**
-![Hr ](https://github.com/MaasahebbiUstad/HR-Data-EDA-Visualization/assets/137813961/65c0da27-b318-408d-9642-28a588540eed)
+<img src="https://github.com/MaasahebbiUstad/HR-Data-EDA-Visualization/assets/137813961/65c0da27-b318-408d-9642-28a588540eed" height="550" width="1100">
