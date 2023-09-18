@@ -1,6 +1,7 @@
 # HR-Data-EDA-Visualization
-
+<div id="header" align="center">
 <img src="https://github.com/MaasahebbiUstad/HR-Data-EDA-Visualization/assets/137813961/135b7662-261e-49e4-b057-bc934b72c044" width="700" height="350">
+</div>
 
 <br>
 
@@ -58,6 +59,49 @@ Welcome to the HR Data Analysis Project repository. This collection hosts an in-
 - Serve as an educational resource for those looking to learn data analysis techniques and explore HR data analysis.
 
 ## <img src="https://github.com/MaasahebbiUstad/1mg-Homeopathy-Data-Analysis/assets/137813961/1a839dfc-2edc-4981-bbed-fcd9b6912aba" width="50" height="48">Data-driven Insights Gallery:
+<div id="header" align="center">
+<img src="https://github.com/MaasahebbiUstad/HR-Data-EDA-Visualization/assets/137813961/ce8f21cb-e826-44e4-b208-d86b571e35fa"  height="350" width="700"/>
+</div>
+
+- Based on the analysis of the HR dataset, a notable insight can be derived from the donut chart representation of employee age distribution. The data reveals that a significant 
+  proportion of employees fall within the age range of 25-26 years old, forming the majority. Additionally, other prominent age groups include employees aged 30, 29, 23, and 28.
+<br>  
+<div id="header" align="center">
+<img src="https://github.com/MaasahebbiUstad/HR-Data-EDA-Visualization/assets/137813961/0c41ff96-d349-45de-82ab-514aed8e9818"  height="350" width="700"/>
+</div>
+
+- The data analysis depicted in the column chart above clearly indicates that the Information Technology (IT) sector boasts the highest average satisfaction rate among all the sectors 
+  examined. This finding underscores the positive employee sentiment within the IT department, which is a noteworthy aspect deserving of further investigation and potential insights 
+  for HR and management strategies.
+<br>
+<div id="header" align="center">
+<img src="https://github.com/MaasahebbiUstad/HR-Data-EDA-Visualization/assets/137813961/345c3b34-b53f-4813-9909-512568aab4ac"  height="350" width="700"/>
+</div>
+
+- he line chart presented illustrates a discernible positive correlation between the number of projects undertaken by employees and their respective salary levels. This correlation 
+  implies that as employees engage in a greater number of projects, there is a corresponding and noticeable increase in their salary. This finding underscores the potential influence 
+  of project involvement on compensation, a phenomenon of significance that merits deeper examination for informed decision-making in compensation structures and HR policies.
+<br>
+<div id="header" align="center">
+<img src="https://github.com/MaasahebbiUstad/HR-Data-EDA-Visualization/assets/137813961/e6c4b39a-2700-4fea-bc9e-20c58f724874"  height="350" width="700"/>
+</div>
+
+- The graphical representation provides compelling evidence that female individuals have consistently outperformed their male counterparts in terms of feedback scores.
+<br>
+<div id="header" align="center">  
+<img src="https://github.com/MaasahebbiUstad/HR-Data-EDA-Visualization/assets/137813961/d36bab55-2249-4308-86f9-8b56dcbd671c"  height="350" width="700"/>
+</div>
+
+- The column chart adeptly showcases the top 5 highest feedback scores by age, with individuals aged 60 and 41 receiving the highest scores. This discerning analysis underscores the 
+  exceptional performance of individuals in these age groups and merits further examination for potential insights and strategies
+<br>
+<div id="header" align="center">  
+<img src="https://github.com/MaasahebbiUstad/HR-Data-EDA-Visualization/assets/137813961/5bf18d53-c1ed-4cd0-9351-dff6528cef71"  height="350" width="700"/>
+</div>
+
+- The presented pie chart clearly indicates that males demonstrate the highest level of productivity, emphasizing a notable gender-based difference. This observation holds significance 
+  for workforce management and performance evaluation considerations.
+  
 
 **Dynamic Dashboard**
 <img src="https://github.com/MaasahebbiUstad/HR-Data-EDA-Visualization/assets/137813961/65c0da27-b318-408d-9642-28a588540eed" height="550" width="1100">
