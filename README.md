@@ -104,7 +104,7 @@ Welcome to the HR Data Analysis Project repository. This collection hosts an in-
   
 
 **Dynamic Dashboard**
-<img src="https://github.com/MaasahebbiUstad/HR-Data-EDA-Visualization/assets/137813961/65c0da27-b318-408d-9642-28a588540eed" height="550" width="1100">
+<img src="https://github.com/MaasahebbiUstad/HR-Data-EDA-Visualization/assets/137813961/736c264e-d917-4359-9ea5-55e75a334763" height="550" width="1100">
 ## <img src="https://github.com/yasmeenustad/Swiggy-data-Analysis/assets/112754746/2e256cec-1421-4c5f-9913-052a53dc470f" width="70" height="50"> Learnings:
 
 **Data Quality Assurance:**
