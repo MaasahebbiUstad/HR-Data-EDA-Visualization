@@ -111,6 +111,35 @@ Welcome to the HR Data Analysis Project repository. This collection hosts an in-
 
 **Dynamic Dashboard**
 <img src="https://github.com/MaasahebbiUstad/HR-Data-EDA-Visualization/assets/137813961/736c264e-d917-4359-9ea5-55e75a334763" height="550" width="1100">
+
+## <img src="https://github.com/MaasahebbiUstad/1mg-Homeopathy-Data-Analysis/assets/137813961/4d5c4735-a50c-4876-84c2-b19031384635" height="50" width="48">Conclusions:
+
+**Employee Age Distribution:**
+
+* A significant observation from the donut chart of employee age distribution is the predominance of employees aged 25-26, constituting the majority of the workforce.
+* Other noteworthy age groups include employees aged 30, 29, 23, and 28, indicating a diverse age demographic within the organization.
+
+**Satisfaction Rate by Sector:**
+
+* The column chart analysis highlights that the Information Technology (IT) sector boasts the highest average satisfaction rate compared to other sectors.
+* This finding underscores the positive sentiment among IT department employees, suggesting the need for further investigation to identify the factors contributing to this high satisfaction level, which can inform HR and management strategies.
+
+**Project Involvement and Salary Correlation:**
+
+* The line chart demonstrates a clear positive correlation between the number of projects employees undertake and their respective salary levels.
+* This correlation suggests that increased project involvement corresponds to higher salaries, implying the influence of project engagement on compensation.
+* This finding indicates the importance of studying the impact of projects on compensation structures and HR policies for informed decision-making.
+
+**Gender-Based Performance:**
+
+* The graphical evidence strongly supports the conclusion that female individuals consistently outperform their male counterparts in terms of feedback scores.
+This gender-based performance difference has implications for talent management, performance evaluation, and potential gender diversity initiatives.
+
+**Gender and Productivity:**
+
+* The presented pie chart reveals a noteworthy gender-based difference, with males demonstrating the highest level of productivity.
+* This observation is significant for workforce management and performance evaluation considerations, suggesting potential areas for improvement and balance in gender-related productivity metrics.
+
 ## <img src="https://github.com/yasmeenustad/Swiggy-data-Analysis/assets/112754746/2e256cec-1421-4c5f-9913-052a53dc470f" width="70" height="50"> Learnings:
 
 **Data Quality Assurance:**
